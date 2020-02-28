@@ -1,0 +1,15 @@
+.navigation.row{
+    background-color:black;
+}
+
+.card-container{
+    display:flex;
+    flex-direction:row;
+    align-content:space-evenly;
+    align-items:flex-start;
+    margin:20px;
+}
+.card-img{
+ width:200px;  
+}
+
